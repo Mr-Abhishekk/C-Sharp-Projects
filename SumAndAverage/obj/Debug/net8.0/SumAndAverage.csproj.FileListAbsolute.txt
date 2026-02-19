@@ -1,0 +1,14 @@
+E:\C#_Projects\SumAndAverage\bin\Debug\net8.0\SumAndAverage.exe
+E:\C#_Projects\SumAndAverage\bin\Debug\net8.0\SumAndAverage.deps.json
+E:\C#_Projects\SumAndAverage\bin\Debug\net8.0\SumAndAverage.runtimeconfig.json
+E:\C#_Projects\SumAndAverage\bin\Debug\net8.0\SumAndAverage.dll
+E:\C#_Projects\SumAndAverage\bin\Debug\net8.0\SumAndAverage.pdb
+E:\C#_Projects\SumAndAverage\obj\Debug\net8.0\SumAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Projects\SumAndAverage\obj\Debug\net8.0\SumAndAverage.AssemblyInfoInputs.cache
+E:\C#_Projects\SumAndAverage\obj\Debug\net8.0\SumAndAverage.AssemblyInfo.cs
+E:\C#_Projects\SumAndAverage\obj\Debug\net8.0\SumAndAverage.csproj.CoreCompileInputs.cache
+E:\C#_Projects\SumAndAverage\obj\Debug\net8.0\SumAndAverage.dll
+E:\C#_Projects\SumAndAverage\obj\Debug\net8.0\refint\SumAndAverage.dll
+E:\C#_Projects\SumAndAverage\obj\Debug\net8.0\SumAndAverage.pdb
+E:\C#_Projects\SumAndAverage\obj\Debug\net8.0\SumAndAverage.genruntimeconfig.cache
+E:\C#_Projects\SumAndAverage\obj\Debug\net8.0\ref\SumAndAverage.dll
